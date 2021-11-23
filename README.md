@@ -25,23 +25,3 @@
 ---
 
 ✉ leesrock113@gmail.com
-
-# 🗃 Github
-
----
-
-[WellBeing-Man - Repositories](https://github.com/WellBeing-Man?tab=repositories)
-
-# 📖 Trace
-
----
-https://www.notion.so/React-8ed150eea356403fb77352ab35058b43
-[Objective-C Study Archive](https://www.notion.so/Objective-C-Study-Archive-285975e1443e40e283255361433e4220)
-
----
-
-## Github
-
-[WellBeing-Man/NCSPlayer](https://github.com/WellBeing-Man/NCSPlayer)
-
-[📚 Skills](https://www.notion.so/d767814f81144f54b75899bb5ad2d94e)
