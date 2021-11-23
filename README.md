@@ -35,7 +35,7 @@
 # 📖 Trace
 
 ---
-
+https://www.notion.so/React-8ed150eea356403fb77352ab35058b43
 [Objective-C Study Archive](https://www.notion.so/Objective-C-Study-Archive-285975e1443e40e283255361433e4220)
 
 ---
