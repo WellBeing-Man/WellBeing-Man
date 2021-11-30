@@ -25,3 +25,8 @@
 ---
 
 ✉ leesrock113@gmail.com
+
+--- 
+# 📚 Visit my notion
+
+[WellBeing-Man](https://www.notion.so/WellBeing-Man-38ed93c3484d4b1da1bcd51d3bf74b0b)
